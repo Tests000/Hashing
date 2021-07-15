@@ -1,0 +1,31 @@
+Policlinic
+Alexey Mikhailov
+male
+14
+0145
+--------------------------
+Anastasiya Shirova
+female
+17
+0156
+---------------------------
+Daniil Verlih
+male
+11
+6123
+---------------------------
+Mikail Verlih
+male
+12
+0325
+---------------------------
+Daniil Stepanov
+male
+18
+1261
+---------------------------
+Svetlana Lidina
+female
+11
+3151
+---------------------------
